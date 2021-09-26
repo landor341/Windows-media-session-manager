@@ -1,0 +1,9 @@
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Release\Music Autocontroller Win10.exe.config
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Release\Music Autocontroller Win10.exe
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Release\Music Autocontroller Win10.pdb
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Release\Music_Autocontroller_Win10.PrimaryForm.resources
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Release\Music_Autocontroller_Win10.Properties.Resources.resources
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Release\Music Autocontroller Win10.csproj.GenerateResource.cache
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Release\Music Autocontroller Win10.csproj.CoreCompileInputs.cache
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Release\Music Autocontroller Win10.exe
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Release\Music Autocontroller Win10.pdb

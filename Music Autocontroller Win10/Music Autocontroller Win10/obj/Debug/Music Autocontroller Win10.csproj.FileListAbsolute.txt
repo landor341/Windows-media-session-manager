@@ -1,0 +1,22 @@
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Debug\Music Autocontroller Win10.exe.config
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Debug\Music Autocontroller Win10.exe
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Debug\Music Autocontroller Win10.pdb
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.csprojAssemblyReference.cache
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music_Autocontroller_Win10.PrimaryForm.resources
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music_Autocontroller_Win10.Properties.Resources.resources
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.csproj.GenerateResource.cache
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.csproj.CoreCompileInputs.cache
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.exe
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.pdb
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Debug\Music Autocontroller Win10.exe.config
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Debug\Music Autocontroller Win10.exe
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\bin\Debug\Music Autocontroller Win10.pdb
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.csprojAssemblyReference.cache
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music_Autocontroller_Win10.PrimaryForm.resources
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music_Autocontroller_Win10.Properties.Resources.resources
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.csproj.GenerateResource.cache
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.csproj.CoreCompileInputs.cache
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.exe
+D:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music Autocontroller Win10.pdb
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music_Autocontroller_Win10.AboutForm.resources
+F:\Coding\Windows media control app\Music Autocontroller Win10\Music Autocontroller Win10\obj\Debug\Music_Autocontroller_Win10.SettingsForm.resources
